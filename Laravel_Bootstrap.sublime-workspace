@@ -1,0 +1,398 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/site/layouts/default.blade.php",
+			"settings":
+			{
+				"buffer_size": 4706,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/routes.php",
+			"settings":
+			{
+				"buffer_size": 4128,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/controllers/user/UserController.php",
+			"settings":
+			{
+				"buffer_size": 9850,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/site/work.blade.php",
+			"settings":
+			{
+				"buffer_size": 241,
+				"line_ending": "Windows",
+				"name": "<h1>Work Stuff</h1>"
+			}
+		},
+		{
+			"file": "app/views/site/contact-us.blade.php",
+			"settings":
+			{
+				"buffer_size": 225,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/config/app.php",
+			"settings":
+			{
+				"buffer_size": 8452,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Job/Heath Creative/Laravel_Bootstrap/app/config/app.php",
+		"/C/Job/Heath Creative/Laravel_Bootstrap/app/config/local/app.php",
+		"/C/Job/Heath Creative/Laravel_Bootstrap/bootstrap/start.php",
+		"/C/Job/Heath Creative/Laravel_Bootstrap/app/config/local/mail.php",
+		"/C/Job/Heath Creative/Laravel_Bootstrap/app/config/local/database.php",
+		"/C/Job/Laravel_Test/app/views/layout.blade.php",
+		"/C/Job/Laravel_Test/app/views/users.blade.php",
+		"/C/Job/Laravel_Test/app/lang/jp/pagination.php",
+		"/C/Job/Laravel_Test/app/models/User.php",
+		"/C/Job/Laravel_Test/app/config/database.php",
+		"/C/Job/Laravel_Test/app/controllers/BaseController.php",
+		"/C/Job/Laravel_Test/app/routes.php",
+		"/C/Job/Laravel_Test/composer.json",
+		"/C/Job/Laravel_Test/app/config/app.php",
+		"/C/Job/Laravel_Test/app/variables.php",
+		"/C/Job/Laravel_Test/app/config/administrator.php",
+		"/C/Job/Laravel_Test/app/config/administrator/navigation.php",
+		"/C/Job/Laravel_Test/Fbf/LaravelNavigation/NavItem.php",
+		"/C/Job/Laravel_Test/app/config/packages/fbf/laravel-navigation/config.php",
+		"/C/Job/Laravel_Test/app/database/migrations/2014_04_25_022046_add_favorite_animal_to_users.php",
+		"/C/Job/Laravel_Test/app/database/migrations/2014_05_07_010808_create_menu_items.php",
+		"/C/Job/Laravel_Test/app/views/hello.blade.php",
+		"/C/Job/Laravel_Test/app/config/administrator/fbf_nav_item.php",
+		"/C/Job/Laravel_Test/app/config/packages/fbf/laravel-navigation/administrator/navigation.php",
+		"/C/Job/Laravel_Test/app/config/administrator/Main_Nav.php",
+		"/C/Job/Laravel_Test/app/variables",
+		"/C/Job/Laravel_Test/app/database/migrations/2014_04_08_012121_create_users_table.php",
+		"/C/Job/Laravel_Test/.gitignore"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navitemstableseeder",
+			"write",
+			"read"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/site/layouts/default.blade.php",
+					"settings":
+					{
+						"buffer_size": 4706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4282,
+								4282
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1426.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/routes.php",
+					"settings":
+					{
+						"buffer_size": 4128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3844,
+								3844
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1802.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/controllers/user/UserController.php",
+					"settings":
+					{
+						"buffer_size": 9850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/site/work.blade.php",
+					"settings":
+					{
+						"buffer_size": 241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<h1>Work Stuff</h1>",
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/site/contact-us.blade.php",
+					"settings":
+					{
+						"buffer_size": 225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/config/app.php",
+					"settings":
+					{
+						"buffer_size": 8452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4755,
+								4755
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2530.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true
+}
